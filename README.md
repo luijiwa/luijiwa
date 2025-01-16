@@ -1,10 +1,7 @@
-# Привет, я Иван!
+# Hi, i'm Artem!
 
-Добро пожаловать на мой профиль GitHub. Я разработчик с опытом работы в [укажите ваши технологии]. 
 
 ![CodersRank](https://www.codersrank.io/badge/luijiwa?type=full)
+[![luijiwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-## Мои проекты
 
-- Проект 1: описание
-- Проект 2: описание
