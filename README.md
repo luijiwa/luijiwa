@@ -2,7 +2,7 @@
 
 Добро пожаловать на мой профиль GitHub. Я разработчик с опытом работы в [укажите ваши технологии]. 
 
-![CodersRank](https://www.codersrank.io/badge/username?type=full)
+![CodersRank](https://www.codersrank.io/badge/luijiwa?type=full)
 
 ## Мои проекты
 
